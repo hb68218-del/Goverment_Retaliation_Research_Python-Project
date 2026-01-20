@@ -91,12 +91,12 @@ Metadata was extracted using structured pattern matching and fallback rules to m
 ## Keyword Classification and Topic Tagging
 
 ### Keyword Framework
+<img width="1528" height="1094" alt="image" src="https://github.com/user-attachments/assets/6cdf163d-a576-440f-a5da-69d740ecf0da" />
 
 - Government actions and enforcement  
 - Regulatory and legal disputes  
 - Public policy responses  
 - Firm level reactions  
-- <img width="1683" height="1228" alt="image" src="https://github.com/user-attachments/assets/9f8af8c6-5839-4ec9-84ef-fc6c5d53b1db" />
 
 ### Classification Method
 
@@ -129,7 +129,8 @@ Metadata was extracted using structured pattern matching and fallback rules to m
 - Metadata dataset in CSV format  
 - Cleaned document level text files  
 
-<img width="1563" height="1200" alt="image" src="https://github.com/user-attachments/assets/2797eb71-59dd-4374-b873-518eae68b2b9" />
+<img width="1574" height="1037" alt="image" src="https://github.com/user-attachments/assets/9b8e877e-95fb-4ec1-b394-5d63f00b054d" />
+
 
 ### Analytical Outputs
 
