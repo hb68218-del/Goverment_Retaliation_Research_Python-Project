@@ -1,21 +1,6 @@
----
-title: "Government Retaliation Against Firms"
-subtitle: "Large Scale Document Analysis and Research Pipeline"
-author: "Haeun (Sally) Bae"
-date: "`r Sys.Date()`"
-output:
-  html_document:
-    toc: true
-    toc_depth: 3
-    number_sections: true
----
+
 
 # Government Retaliation Against Firms
-
-**Independent Research Project**  
-**Repository Owner:** Haeun (Sally) Bae
-
----
 
 ## Project Objective
 
